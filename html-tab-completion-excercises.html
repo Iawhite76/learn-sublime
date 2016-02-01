@@ -1,3 +1,6 @@
+<!-- Here are some of what I believe to be the most helpful default Sublime Text
+tab completions. Specifics can be found here: https://www.sublimetext.com/docs/3/auto_complete.html -->
+
 <!-- Lesson 1: HTML Boilerplate -->
 
 	<!-- Let's say you need to prototype an HTML index page real quick. 
@@ -50,10 +53,27 @@
 				  <!--↓-->
 	div.quick-fast-now
 
-	<!-- You can do this with pretty much any HTML tag. Go 'head, try a few below! -->
+	<!-- You can do this with pretty much any HTML tag. 
+	Pro tip: use dots for classes and hash tags for ID's.
+	Go 'head, try a few below! -->
+	p#sAndQs
+	section#myId
+	ul.some-class
 
+<!-- Lesson 4: The amazing tag hug -->
+	<!-- So I've got the following markup. Turns out this <ul> tag 
+	needs to be surrounded by a div with the class name
+	"my-class". Using a handy Sublime shortcut you may have learned 
+	in another lesson, place your cursor at the beginning of the line proceeding <ul>,
+	hit `Command + L` until you've selected the next line directly after </ul> (6 times by my count), then hit `Command + Control + W` and type div class="my-class".
+	Notice this shortcut automagically surrounds the selected markup in a <div>
+	and properly adds the class to just the opening tag. Neat, huh? -->
 
-
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
 
 
 
