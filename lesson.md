@@ -40,11 +40,11 @@ In ST3, you can _Goto Anything_ using the key combo: `Command + P`.
 
 Type the above shortcut and you will see a menu appear. This menu will list all of the files that are currently in your directory. You can imagine how, as your project grows, this can become quite a long list!
 
-**Exercise**: To gain some practice, open all of the files by pressing `Command + P`, typing the name of the file you want to open, and pressing enter.
+**Exercise**: To gain some practice, open all of the files by pressing `Command + P` of `Command + T`, typing the name of the file you want to open, and pressing enter.
 
 **Exercise**: With the files open, quickly navigate between the different tabs using _Goto Anything_.
 
-NOTE: Another trick to navigating between tabs is the following: `Shift + Command + [` and `Shift + Command + ]`
+NOTE: Another trick to navigating between tabs is the following: `Shift + Command + [` and `Shift + Command + ]` or `Command + Option + ←` and `Command + Option + →`
 
 ### Step 4: Experiment with Fuzzy Matching
 
@@ -73,6 +73,8 @@ Since we are currently in a markdown file, it is showing the different header le
 Similar to the previous step, we can also navigate to a particular line in a file using _Goto Anything_ and ":".
 
 In this file, in the _Goto Anything_ prompt, type ":10" and ENTER, and it will bring you to the 10th line.
+
+(This can also be accomplished by using the key combination `Control + G` and entering a line number.)
 
 **Exercise**: Navigate to the 95th line in code.js.
 
