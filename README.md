@@ -9,14 +9,6 @@
 | ⌘ | Command |
 | ↵ | Enter |
 
-### Empty Table
-| Shortcut Description            | Key Combinations         |
-| ------------------------------- | ------------------------ |
-| Move line/selection up | Control + Command + ↑ |
-| Cut line (Cmd + V to paste line elsewhere) | Command + X |
-|
-
-
 ### Text Editing Beginner
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
