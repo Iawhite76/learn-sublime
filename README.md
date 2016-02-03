@@ -9,14 +9,6 @@
 | ⌘ | Command |
 | ↵ | Enter |
 
-### Empty Table
-| Shortcut Description            | Key Combinations         |
-| ------------------------------- | ------------------------ |
-| Move line/selection up | Control + Command + ↑ |
-| Cut line (Cmd + V to paste line elsewhere) | Command + X |
-|
-
-
 ### Text Editing Beginner
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
@@ -49,3 +41,14 @@
 | ⌃[SPACE] | Select next auto-complete suggestion |
 | ⌘U | Soft undo |
 | ⌥⌘V | Paste from history |
+
+### Text manipulation
+|      Key Combinations           |   Shortcut Description      |
+| ------------------------------- | ------------------------ |
+|⌘K⌘U| Transform to uppercase|
+|⌘K⌘L| Transform to lowercase|
+|⇧⌃K| Delete line|
+|⌘J |Join lines|
+|⌥⌘.| Close html tag|
+|F5| Sort lines|
+|⌃F5 |Sort lines (case sensitive)|
