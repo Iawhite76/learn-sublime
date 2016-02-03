@@ -21,6 +21,7 @@
 | ⌘D | Select word - repeat select others occurrences |
 |⌃M | Go to matching parentheses |
 |⇧⌃M | Select all contents of the current parentheses |
+| ⌘⇧V| Paste and Indent (helpful for pasting code copied from other sources) |
 
 ### Text Editing Intermediate
 |      Key Combinations           |   Shortcut Description      |
