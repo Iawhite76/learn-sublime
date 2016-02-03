@@ -1,7 +1,7 @@
 <!-- Here are some of what I believe to be the most helpful default Sublime Text
 tab completions. Specifics can be found here: https://www.sublimetext.com/docs/3/auto_complete.html -->
 
-<!-- Lesson 1: HTML Boilerplate -->
+<!-- Exercise 1: HTML Boilerplate -->
 
 	<!-- Let's say you need to prototype an HTML index page real quick. 
 	You COULD go online and pull down some boilerplate that would
@@ -25,10 +25,10 @@ tab completions. Specifics can be found here: https://www.sublimetext.com/docs/3
     <!--↓-->
 	html
 
-	<!-- Holy magic html boilerplate, Batman! -->
+	<!-- Holy magic HTML boilerplate, Batman! -->
 
 
-<!-- Lesson 2: HTML tags -->
+<!-- Exercise 2: HTML tags -->
 	<!-- Need a <div>? How about a <ul>? An <a> tag, maybe? Place your cursor directly 
 	after the following tags and hit TAB to see the magic. -->
 
@@ -45,9 +45,12 @@ tab completions. Specifics can be found here: https://www.sublimetext.com/docs/3
  				 Hit TAB twice to enter the href. Hit TAB again to enter the link text! -->
  	a
 
+ 	<!-- Some tags don't play nice, like header (<h1><h2>etc..) tags for example. If tab completion isn't
+ 	working for a particular tag try typing adding < and then typing the tag name. You should
+ 	see a dropdown list with options to autocomplete that tag. -->
 
 
-<!-- Lesson 3: HTML tags w/classes -->
+<!-- Exercise 3: HTML tags w/classes -->
 	<!-- Say, I need a div with a class name of "quick-fast-now", immediately! 
 	Place your cursor directly under the arrow ↓ and hit TAB.-->
 				  <!--↓-->
@@ -60,7 +63,7 @@ tab completions. Specifics can be found here: https://www.sublimetext.com/docs/3
 	section#myId
 	ul.some-class
 
-<!-- Lesson 4: The amazing tag hug -->
+<!-- Exercise 4: The amazing tag hug -->
 	<!-- So I've got the following markup. Turns out this <ul> tag 
 	needs to be surrounded by a div with the class name
 	"my-class". Using a handy Sublime shortcut you may have learned 
@@ -75,6 +78,16 @@ tab completions. Specifics can be found here: https://www.sublimetext.com/docs/3
 		<li></li>
 	</ul>
 
+<!-- Exercise 5: Closing tag shortcut -->
+	<!-- This has nothing to do with tab completion...but it's a helpful tool for 
+	dealing with HTML tags so I figured I'd throw it in this group of exercises.
+	Below I have an opening HTML tag and some text. Instead of manually typing
+	out the matching closing tag, try the key combination `Command + Option + .` --> 
 
 
+	<strong>So bold
 
+	<!-- Yeah..so what? It's just one tag, right? This works for nested tags, too!
+	To prove it hit `Command + Option + .` three times (or as many times as you have unclosed tags) -->
+
+	<div><ul><li>Ima list item!
