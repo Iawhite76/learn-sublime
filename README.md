@@ -54,7 +54,7 @@
 | F5 		| Sort lines|
 | ⌃F5 	|Sort lines (case sensitive)|
 
-### Text Navigation
+### Other text commands
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
 | ⌘L 	| Select current line|
