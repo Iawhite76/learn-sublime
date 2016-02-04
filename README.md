@@ -1,7 +1,7 @@
 # Summary of Sublime Text 3 Shortcuts
 
 ### Key
-| Shortcut Description            | Key Combinations         |
+|      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
 | ⇧ | Shift | 
 | ⌥ | Alt | 
