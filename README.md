@@ -63,6 +63,7 @@
 | ⌘E 	| Use selection for find |
 | ⇧⌘E | Use selection for replace |
 | ⇧⌘A | Expand selection to html tag |
+| ⇧⌘L | Split into lines  |
 
 ### Goto Anywhere
 |      Key Combinations           |   Shortcut Description      |
