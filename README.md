@@ -38,7 +38,7 @@ This is an overview of the shortcuts used in the text editing and manipulation e
 ### Text Editing Intermediate II
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-| ⌘K⌘K 				| Delete from cursor to end of line |
+| ⌘KK 				| Delete from cursor to end of line |
 | ⌘KBACKSPACE | Delete from cursor to start of line |
 | ⇧⌘V 				| Paste and indent correctly |
 | ⌃[SPACE]	 	| Select next auto-complete suggestion |
@@ -48,8 +48,8 @@ This is an overview of the shortcuts used in the text editing and manipulation e
 ### Text manipulation
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-| ⌘K⌘U 	| Transform to uppercase|
-| ⌘K⌘L 	| Transform to lowercase|
+| ⌘KU 	| Transform to uppercase|
+| ⌘KL 	| Transform to lowercase|
 | ⇧⌃K  	| Delete line|
 | ⌘J 	 	|Join lines|
 | ⌥⌘.  	| Close html tag|
