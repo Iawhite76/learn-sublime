@@ -46,8 +46,8 @@
 ### Text manipulation
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-| ⌘K⌘U | Transform to uppercase|
-| ⌘K⌘L | Transform to lowercase|
+| ⌘KU | Transform to uppercase|
+| ⌘KL | Transform to lowercase|
 | ⇧⌃K | Delete line|
 | ⌘J |Join lines|
 | ⌥⌘.| Close html tag|
