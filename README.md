@@ -3,7 +3,7 @@
 ### Key
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
-| c | Shift | 
+| ⇧ | Shift | 
 | ⌥ | Alt | 
 | ⌃ | Control |
 | ⌘ | Command |
