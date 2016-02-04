@@ -32,6 +32,8 @@ Below is a list of the current lessons identified by branch names, along with a 
 * [(goto-anything)](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything): A lesson on using ST3's _Goto Anything_ to quickly navigate a project.
 * [(tab-completion)](https://github.com/Iawhite76/learn-sublime/tree/tab-completion): A series of exercises designed to help Sublime users learn awesome tab completion commands.
 * [(text-editing)](https://github.com/Iawhite76/learn-sublime/tree/text-editing): A series of exercises designed to help Sublime users learn awesome text editing and manipulation commands.
+* [(split-window)](https://github.com/Iawhite76/learn-sublime/tree/split-window): Sample repo and list of commands to help you master split window work flows in Sublime Text.
+* [(package-control)](https://github.com/Iawhite76/learn-sublime/tree/package-control): Some starter info and links on how and why to include Sublime Text Package Control in your copy of Sublime.
 
 ## Additional Resources
 The below resources were referenced when making the above lessons:
@@ -40,3 +42,4 @@ The below resources were referenced when making the above lessons:
 * [Shortcut Foo cheat sheet ST2](https://www.shortcutfoo.com/app/dojos/sublime-text-2-mac/cheatsheet)
 * [Shortcut Foo cheat sheet ST3](https://www.shortcutfoo.com/app/dojos/sublime-text-2-mac/cheatsheet)
 * [Official ST docs](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+* [Sublime Package Control](https://packagecontrol.io/)
