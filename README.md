@@ -33,7 +33,6 @@ Below is a list of the current lessons identified by branch names, along with a 
 * [(tab-completion)](https://github.com/Iawhite76/learn-sublime/tree/tab-completion): A series of exercises designed to help Sublime users learn awesome tab completion commands.
 * [(text-editing)](https://github.com/Iawhite76/learn-sublime/tree/text-editing): A series of exercises designed to help Sublime users learn awesome text editing and manipulation commands.
 
-* TODO - Package control && split screen
 ## Additional Resources
 The below resources were referenced when making the above lessons:
 
