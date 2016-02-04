@@ -3,8 +3,8 @@
 ### Key
 | Shortcut Description            | Key Combinations         |
 | ------------------------------- | ------------------------ |
-| ⇧ | Shift | 
-|⌥ | Alt | 
+| c | Shift | 
+| ⌥ | Alt | 
 | ⌃ | Control |
 | ⌘ | Command |
 | ↵ | Enter |
@@ -12,16 +12,16 @@
 ### Text Editing Beginner
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-|⌃⌘UP | Move line/selection up |
-|⌘X | Cut line |
-|⌘↵ | Insert line after |
-|⇧⌘↵ | Insert line before |
-|⌃⌘DOWN | Move line/selection down |
-|⌘L | Select line - repeat to select next lines |
+| ⌃⌘UP | Move line/selection up |
+| ⌘X | Cut line |
+| ⌃⇧K | Delete line
+| ⌘↵ | Insert line after |
+| ⇧⌘↵ | Insert line before |
+| ⌃⌘DOWN | Move line/selection down |
+| ⌘L | Select line - repeat to select next lines |
 | ⌘D | Select word - repeat select others occurrences |
-|⌃M | Go to matching parentheses |
-|⇧⌃M | Select all contents of the current parentheses |
-| ⌘⇧V| Paste and Indent (helpful for pasting code copied from other sources) |
+| ⌃M | Go to matching parentheses |
+| ⇧⌃M | Select all contents of the current parentheses |
 
 ### Text Editing Intermediate
 |      Key Combinations           |   Shortcut Description      |
@@ -36,7 +36,7 @@
 ### Text Editing Intermediate II
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-| ⌘K⌘K | Delete from cursor to end of line |
+| ⌘KK | Delete from cursor to end of line |
 | ⌘KBACKSPACE | Delete from cursor to start of line |
 | ⇧⌘V | Paste and indent correctly |
 | ⌃[SPACE] | Select next auto-complete suggestion |
@@ -46,10 +46,10 @@
 ### Text manipulation
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-|⌘K⌘U| Transform to uppercase|
-|⌘K⌘L| Transform to lowercase|
-|⇧⌃K| Delete line|
-|⌘J |Join lines|
-|⌥⌘.| Close html tag|
-|F5| Sort lines|
-|⌃F5 |Sort lines (case sensitive)|
+| ⌘K⌘U | Transform to uppercase|
+| ⌘K⌘L | Transform to lowercase|
+| ⇧⌃K | Delete line|
+| ⌘J |Join lines|
+| ⌥⌘.| Close html tag|
+| F5| Sort lines|
+| ⌃F5 |Sort lines (case sensitive)|
