@@ -18,4 +18,4 @@ I've included the file structure from another lesson so you can try out Sublime 
 
 Use the key commands above and try dragging files from the different folders to the resulting split windows to find new ways to organize your work flow!
 
-For example, try using ⌥⌘2 to split your Sublime Text environment into two columns. Then, drag index.html to one column, and css/styl.css to another. Now you can visible work on both files at the same time.
+For example, try using ⌥⌘2 to split your Sublime Text environment into two columns. Then, drag index.html to one column, and css/style.css to another. Now you can visibly work on both files at the same time.
