@@ -37,7 +37,7 @@ Below is a list of the current lessons identified by branch names, along with a 
 ## Additional Resources
 The below resources were referenced when making the above lessons:
 
-*  [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2/)
+* [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2/)
 * [Shortcut Foo cheat sheet ST2](https://www.shortcutfoo.com/app/dojos/sublime-text-2-mac/cheatsheet)
 * [Shortcut Foo cheat sheet ST3](https://www.shortcutfoo.com/app/dojos/sublime-text-2-mac/cheatsheet)
 * [Official ST docs](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
