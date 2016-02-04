@@ -2,6 +2,20 @@
 
 This is an overview of the shortcuts used in the text editing and manipulation exercises.
 
+
+## Some clarification on key commands
+All of the keyboard shortcuts in these lessons involve at least one modifier key (Command ⌘, Control ^, etc) followed by predicate key which completes the shortcut and triggers the desired action.
+
+For example, let's take the shortcut ⌘X
+This means depress and hold the Command (⌘) modifier key and then press the letter 'X'.
+
+If you see ⌘KK or ⌘K⌘K, this means depress and hold Control (⌘) and press the letter 'K' twice.
+
+Should you come across several modifier keys such as ⌃⇧K
+then this means depress and hold Control (⌃), depress and hold Shift (⇧), then press the letter 'K'
+
+Each lesson should have a legend for the modifier keys as well as these instructions as a reminder.
+
 ### Key
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
@@ -64,17 +78,3 @@ This is an overview of the shortcuts used in the text editing and manipulation e
 | ⇧⌘E | Use selection for replace |
 | ⇧⌘A | Expand selection to html tag |
 | ⇧⌘L | Split into lines  |
-
-
-## Some clarification on key commands
-All of the keyboard shortcuts in these lessons involve at least one modifier key (Command ⌘, Control ^, etc) followed by predicate key which completes the shortcut and triggers the desired action.
-
-For example, let's take the shortcut ⌘X
-This means depress and hold the Command (⌘) modifier key and then press the letter 'X'.
-
-If you see ⌘KK or ⌘K⌘K, this means depress and hold Control (⌘) and press the letter 'K' twice.
-
-Should you come across several modifier keys such as ⌃⇧K
-then this means depress and hold Control (⌃), depress and hold Shift (⇧), then press the letter 'K'
-
-Each lesson should have a legend for the modifier keys as well as these instructions as a reminder.
