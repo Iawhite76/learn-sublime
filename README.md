@@ -3,7 +3,7 @@
 This is an overview of the shortcuts used in the text editing and manipulation exercises.
 
 ### Key
-| Shortcut Description            | Key Combinations         |
+|      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
 | ⇧ | Shift | 
 | ⌥ | Alt | 
