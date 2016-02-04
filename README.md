@@ -22,7 +22,7 @@ This is an overview of the shortcuts used in the text editing and manipulation e
 |	⌘L 			| Select line - repeat to select next lines |
 |	 ⌘D 		| Select word - repeat select others occurrences |
 |	⌃M 			| Go to matching parentheses |
-|	⇧⌃M 		| Select all contents of the current parentheses |
+|	⇧⌃M 		| Select all contents of the current parentheses/brackets |
 | ⌘⇧V			| Paste and Indent (helpful for pasting code copied from other sources) |
 
 ### Text Editing Intermediate
@@ -56,11 +56,9 @@ This is an overview of the shortcuts used in the text editing and manipulation e
 | F5 		| Sort lines|
 | ⌃F5 	|Sort lines (case sensitive)|
 
-### Text Navigation
+### Other text commands
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-| ⌘L 	| Select current line|
-| ⇧⌃M | Select between brackets|
 | ⇧⌘J | Select current indentation |
 | ⌘E 	| Use selection for find |
 | ⇧⌘E | Use selection for replace |
