@@ -14,15 +14,15 @@ This is an overview of the shortcuts used in the text editing and manipulation e
 ### Text Editing Beginner
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
-|⌃⌘UP	 	| Move line/selection up |
-|⌘X 		| Cut line |
-|⌘↵ 		| Insert line after |
-|⇧⌘↵ 		| Insert line before |
-|⌃⌘DOWN | Move line/selection down |
-|⌘L 		| Select line - repeat to select next lines |
-| ⌘D 		| Select word - repeat select others occurrences |
-|⌃M 		| Go to matching parentheses |
-|⇧⌃M 		| Select all contents of the current parentheses |
+|	⌃⌘UP	 	| Move line/selection up |
+|	⌘X 		| Cut line |
+|	⌘↵ 		| Insert line after |
+|	⇧⌘↵ 		| Insert line before |
+|	⌃⌘DOWN | Move line/selection down |
+|	⌘L 		| Select line - repeat to select next lines |
+|	 ⌘D 		| Select word - repeat select others occurrences |
+|	⌃M 		| Go to matching parentheses |
+|	⇧⌃M 		| Select all contents of the current parentheses |
 | ⌘⇧V		| Paste and Indent (helpful for pasting code copied from other sources) |
 
 ### Text Editing Intermediate
