@@ -63,3 +63,4 @@ This is an overview of the shortcuts used in the text editing and manipulation e
 | ⌘E 	| Use selection for find |
 | ⇧⌘E | Use selection for replace |
 | ⇧⌘A | Expand selection to html tag |
+| ⇧⌘L | Split into lines  |
