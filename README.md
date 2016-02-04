@@ -27,9 +27,9 @@ Below is a list of the current lessons identified by branch names, along with a 
 
 ## Lessons
 
-* [(summary)](https://github.com/cgrinaldi/learn-sublime/tree/summary): A listing of ST3 shortcuts and a description of what they do.
-* [(multiple-cursors)](https://github.com/cgrinaldi/learn-sublime/tree/multiple-cursors): A lesson on how to use ST3's multiple cursors.
-* [(goto-anything)](https://github.com/cgrinaldi/learn-sublime/tree/goto-anything): A lesson on using ST3's _Goto Anything_ to quickly navigate a project.
+* [(summary)](https://github.com/Iawhite76/learn-sublime/tree/summary): A listing of ST3 shortcuts and a description of what they do.
+* [(multiple-cursors)](https://github.com/Iawhite76/learn-sublime/tree/multiple-cursors): A lesson on how to use ST3's multiple cursors.
+* [(goto-anything)](https://github.com/Iawhite76/learn-sublime/tree/goto-anything): A lesson on using ST3's _Goto Anything_ to quickly navigate a project.
 * [(tab-completion)](https://github.com/Iawhite76/learn-sublime/tree/tab-completion): A series of exercises designed to help Sublime users learn awesome tab completion commands.
 * [(text-editing)](https://github.com/Iawhite76/learn-sublime/tree/text-editing): A series of exercises designed to help Sublime users learn awesome text editing and manipulation commands.
 * [(split-window)](https://github.com/Iawhite76/learn-sublime/tree/split-window): Sample repo and list of commands to help you master split window work flows in Sublime Text.
