@@ -14,7 +14,7 @@ then this means depress and hold Control (⌃), depress and hold Shift (⇧), th
 Each lesson should have a legend for the modifier keys as well as these instructions as a reminder.
 
 
-### Key
+### Legend
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
 | ⇧ | Shift | 
