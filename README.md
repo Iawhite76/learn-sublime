@@ -1,6 +1,15 @@
 ### Split Window
 
 
+### Legend
+|      Key Combinations           |   Shortcut Description      |
+| ------------------------------- | ------------------------ |
+| ⇧ | Shift | 
+| ⌥ | Alt | 
+| ⌃ | Control |
+| ⌘ | Command |
+| ↵ | Enter |
+
 |      Key Combinations           |   Shortcut Description      |
 | ------------------------------- | ------------------------ |
 | ⌥⌘2 |Split view into two columns|
