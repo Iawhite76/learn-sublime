@@ -29,6 +29,8 @@ Use the key commands above and try dragging files from the different folders to 
 
 For example, try using ⌥⌘2 to split your Sublime Text environment into two columns. Then, drag index.html to one column, and css/style.css to another. Now you can visibly work on both files at the same time.
 
+Another very helpful feature of Sublime Text can be found in File -> New View Into File. Next time you find yourself scrolling back and forth in a file with a large number of lines, try File -> New View Into File, splitting the view into two columns with ⌥⌘2, and dragging the tab over. Now you can edit two different parts of the same file side by side - no more scrolling!
+
 
 ## Some clarification on key commands
 All of the keyboard shortcuts in these lessons involve at least one modifier key (Command ⌘, Control ^, etc) followed by predicate key which completes the shortcut and triggers the desired action.
