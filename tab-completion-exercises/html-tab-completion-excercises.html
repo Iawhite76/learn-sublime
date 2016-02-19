@@ -1,0 +1,126 @@
+<!-- Here are some of what I believe to be the most helpful default Sublime Text
+tab completions. Specifics can be found here: https://www.sublimetext.com/docs/3/auto_complete.html -->
+
+
+/////////////////////////////////////////////////////////////////////////
+// Make sure your syntax is set to HTML or tab completion won't work.  //
+// You can tell the current syntax by checking bottom right            //
+// corner of your Sublime window. You can set the syntax with          //
+// `Command + Shift + P` then type html and select Set Syntax: HTML    //
+/////////////////////////////////////////////////////////////////////////
+
+
+Legend
+---------
+⇧  Shift  
+⌥  Alt  
+⌃  Control 
+⌘  Command 
+↵  Enter 
+
+
+<!-- Exercise 1: HTML Boilerplate -->
+
+	<!-- Let's say you need to prototype an HTML index page real quick. 
+	You COULD go online and pull down some boilerplate that would
+	look a lot like this: -->
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+
+	</body>
+	</html>
+
+
+<!-- Instead, let's use default Sublime Text	HTML tab completion.
+On the line below, type --> html <!-- and hit TAB -->
+
+
+
+
+
+
+
+<!-- Exercise 2: Lorem ipsum Boilerplate -->
+	<!-- On the line below, type --> lorem <!-- and hit TAB -->
+
+
+
+
+
+
+
+<!-- Exercise 3: HTML tags -->
+	<!-- Need a <div>? How about a <ul>? An <a> tag, maybe? Place your cursor directly 
+	after the following tags and hit TAB to see the magic. -->
+
+	<div></div>
+	<p></p>
+	<button></button>
+	<ul></ul>
+ 	php	 <!-- you might need to set your syntax to php for this one to work -->
+ 	<script type="text/javascript"></script>
+ 	<link rel="stylesheet" type="text/css" href="">
+ 	section
+
+ 	<!-- A tags are purdy special. 
+ On the line below, type --> a <!-- and hit TAB. Then, hit TAB again to enter the href. Finally, hit TAB once more to enter the link text! -->
+ 
+
+
+
+ 	<!-- There is a regression in Sublime Text version 3081 
+ 	and tab completion for some tags (h1..h6 tags for example) 
+ 	fail to work as expected. 
+		If tab completion isn't working for a particular tag try 
+	first typing < and then typing the tag name. You should
+ 	see a dropdown list with options to autocomplete that tag. 
+ 	On the line below, type <h1 then hit TAB. -->
+ 	
+
+
+<!-- Exercise 4: HTML tags w/classes -->
+	<!-- Say, I need a div with a class name of "quick-fast-now", immediately! -->
+	<!-- On the line below, type --> div.quick-fast-now <!-- and hit TAB -->
+
+
+
+	<!-- Need an ID instead? There's a shortcut for that! -->
+	<!-- On the line below, type --> div#my-new-id <!-- and hit TAB -->
+
+
+
+
+<!-- Exercise 5: The amazing tag hug -->
+	<!-- So I've got the following markup. Turns out this <ul> tag 
+	needs to be surrounded by a div with the class name
+	"my-class". Using a handy Sublime shortcut you may have learned 
+	in another lesson, place your cursor at the beginning of the line preceding the opening <ul> tag,
+	hit --> ⌘L <!-- until you've selected the line after the closing </ul> tag
+	(6 times by my count), then use --> ⌘^W <!-- and type --> div class="my-class" <!--
+	Notice this shortcut automagically surrounds the selected markup in a <div>
+	and properly adds the class to just the opening tag. Neat, huh? -->
+
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+
+<!-- Exercise 6: Closing tag shortcut -->
+	<!-- This has nothing to do with tab completion...but it's a helpful tool for 
+	dealing with HTML tags so I figured I'd throw it in this group of exercises.
+	Below I have an opening HTML tag and some text. Instead of manually typing
+	out the matching closing tag, try the key combination --> ⌘⌥. 
+
+
+	<strong>So strong
+
+	<!-- Yeah..so what? It's just one tag, right? This works for multiple nested tags, too!
+	To prove it use --> ⌘⌥. <!-- to close each unclosed tag below. Sublime Text will add closing tags in the correct order. -->
+
+	<div><ul><li>Hold ⌘⌥ and hit . three times to close these three unclosed tags!
