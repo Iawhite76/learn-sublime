@@ -6,17 +6,7 @@ This project is about learning how to most effectively use **Sublime Text 3 (ST3
 Hopefully this project will give you just that, a way to practice using ST3 shortcuts that will make you wicked fast while coding!
 
 ## Format
-The format of this project is to use different git branches for different lessons. This way, it will be easy for anyone to add their own lessons.
-
-Please feel free to fork this repo and create your own lessons (or edit already existing ones). If you do decide to add your own lesson, please follow these steps to ensure each lesson's history is independent of all other lessons:
-
-0. Fork the project
-1. Create an empty branch: `git checkout --orphan LESSON-NAME`
-2. Delete all files in the working directory: `git rm -rf .`
-3. Create your lesson
-4. Submit a Pull Request
-
-I think together we will be able to make a collection of lessons that will help us get better at ST3.
+There are different directories containing information and lessons that cover the majority of Sublime Text use cases. Please add any additional lessons in a similar way.
 
 ## Next Steps
 To see which lessons are available, type `git branch -r` in your local repo to see which ones are available on Github. Then, use `git checkout <LESSON-NAME>` to work through a particular lesson.
